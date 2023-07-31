@@ -376,6 +376,8 @@
         href: connectors/dataverse.md     
       - name: "Dataflows"
         href: connectors/dataflows.md
+      - name: "DataStax Astra DB"
+        href: connectors/datastax-astra-db.md
       - name: "Delta Sharing"
         href: connectors/delta-sharing.md
       - name: "Denodo"

@@ -221,6 +221,16 @@
       "redirect_document_id": "true"
     },
     {
+      "source_path": "powerquery-docs/Connectors/astra-db.md",
+      "redirect_url": "/power-query/connectors/datastax-astra-db",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "powerquery-docs/Connectors/AstraDB.md",
+      "redirect_url": "/power-query/connectors/datastax-astra-db",
+      "redirect_document_id": "true"
+    },
+    {
       "source_path": "powerquery-docs/Connectors/AutodeskConstructionCloud.md",
       "redirect_url": "/power-query/connectors/autodesk-construction-cloud",
       "redirect_document_id": "true"
@@ -283,6 +293,16 @@
     {
       "source_path": "powerquery-docs/Connectors/DataLakeStorage.md",
       "redirect_url": "/power-query/connectors/data-lake-storage",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "powerquery-docs/Connectors/DataStaxAstraDB.md",
+      "redirect_url": "/power-query/connectors/datastax-astra-db",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "powerquery-docs/Connectors/DatastaxAstraDB.md",
+      "redirect_url": "/power-query/connectors/datastax-astra-db",
       "redirect_document_id": "true"
     },
     {
